@@ -1,0 +1,1 @@
+This respository is holding all of my projects and personal random shinanigans I do with openGL and SDL
