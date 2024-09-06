@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\SDLSimple\SDLSimple\main.cpp(53,15): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\SDLSimple\SDLSimple\main.cpp(54,16): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  SDLSimple.vcxproj -> C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\SDLSimple\Debug\SDLSimple.exe
