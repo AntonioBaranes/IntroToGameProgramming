@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\TransfromExcer\SDLSimple\main.cpp(33,32): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\TransfromExcer\SDLSimple\main.cpp(34,32): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\TransfromExcer\SDLSimple\main.cpp(35,32): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\TransfromExcer\SDLSimple\main.cpp(36,32): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\TransfromExcer\Debug\SDLSimple.exe for writing

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\Simple2D\Simple2D\main.cpp(233,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\Simple2D\Simple2D\main.cpp(234,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Simple2D.vcxproj -> C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\Simple2D\Debug\Simple2D.exe

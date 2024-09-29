@@ -1,0 +1,14 @@
+Movement programming in video games
+
+coordinates held in matrix and vectors
+
+scalar multiplication: multiplication with no direction
+
+Matrix multiplication: must be compatible -> (m * n) * (n * k) is compatible because of both ns
+                                             will result in an m * k matrix
+
+                                             OpenGl calcs for you
+
+Rotation: rotation matrix is wack google it lol
+
+***** order of operations: translation, rotation, scaling
