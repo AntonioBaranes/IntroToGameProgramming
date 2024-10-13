@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\Simple2D - Copy\Simple2D\main.cpp(23,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\Simple2D - Copy\Simple2D\main.cpp(24,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  Simple2D.vcxproj -> C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\Simple2D - Copy\Debug\Simple2D.exe

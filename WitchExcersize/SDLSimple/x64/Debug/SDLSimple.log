@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\SDLSimple\SDLSimple\main.cpp(53,15): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\anton\OneDrive\Desktop\IntroToGameProgramming\SDLSimple\SDLSimple\main.cpp(54,16): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  ShaderProgram.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'SDL2_mixer.lib'
